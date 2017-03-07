@@ -3,6 +3,12 @@ Custom TextWatcher for EditText to mask phone number on-the-fly even with automa
 
 ![Demonstration GIF](https://github.com/MihaelIsaev/MaskedEditTextWatcher/raw/master/stuff/example.gif)
 
+## How to install
+via Gradle
+```
+compile 'com.mihaelisaev:masked-edit-text-watcher:1.0.0'
+```
+
 ## How to use
 
 ### Manual list of masks
